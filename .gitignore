@@ -1,2 +1,4 @@
 foods-scrape.spec
-build/
+build
+venv
+__pycache__
